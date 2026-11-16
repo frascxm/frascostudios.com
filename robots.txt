@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+# Pages carry noindex until the Operator approves search indexing.
+
+Sitemap: https://frascostudios.com/sitemap.xml
